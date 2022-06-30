@@ -1,5 +1,36 @@
+*{
+    font-family: 'Gentium Book Plus', serif;
+   
+}
+
 .card{
-    margin: 25px;
-    border: 2px solid tomato;
+    margin: 10px;
+    box-shadow: 2px 2px 7px 0px black;
+    background-color: rgb(254, 246, 234);
+    padding: 20px;
+    
+   
+}
+.box{
+    display: flex;
+    flex-direction: row;
+}
+.header{
     padding: 10px;
+    text-align: center;
+    /* background: rgb(241, 229, 188); */
+    color: black;
+    font-size: 20px;
+}
+.Heading{
+    text-align: center;
+    margin: 20px;
+}
+.yearList{
+        height: 400px;
+        position: absolute;
+        inset: 0px auto auto 0px;
+        margin: 0px;
+        transform: translate3d(0px, 40px, 0px);
+        overflow-y: scroll;
 }
