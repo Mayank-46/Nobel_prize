@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Nobel_prize/static/css/main.32d80428.css",
+    "main.js": "/Nobel_prize/static/js/main.5ccacf50.js",
+    "static/media/logo.svg": "/Nobel_prize/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Nobel_prize/index.html",
+    "main.32d80428.css.map": "/Nobel_prize/static/css/main.32d80428.css.map",
+    "main.5ccacf50.js.map": "/Nobel_prize/static/js/main.5ccacf50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d80428.css",
+    "static/js/main.5ccacf50.js"
+  ]
+}
